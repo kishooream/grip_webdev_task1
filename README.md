@@ -1,1 +1,0 @@
-# grip_webdev_task1
